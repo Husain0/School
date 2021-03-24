@@ -1,0 +1,17 @@
+body {
+   text-align: center; 
+}
+.my_navbar {
+    position: sticky;
+    top: 0;
+}
+img {
+    height : 150px;
+    width: 150px;
+    margin-right: 500px;
+}
+p {
+    padding-left: 600px;
+    font-size: 30px;
+    
+}
